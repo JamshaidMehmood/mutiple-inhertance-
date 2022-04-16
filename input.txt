@@ -1,0 +1,15 @@
+7
+221 Sherlock Holmes
+MT 60 72 85 65 62 75 80
+567 Dr. Watson
+CS 70 85 80
+1234 Robert Langdon
+EN 85 91 79 93
+123 Bill Gates
+CS 65 75 81
+808 Albert Einstein
+MT 45 79 71 65 91 72 78
+665 Donald Knuth
+EN 92 97 85 90
+778 Allan Turing
+CS 93 88 95
